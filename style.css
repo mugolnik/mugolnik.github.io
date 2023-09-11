@@ -172,14 +172,14 @@ h1 {
 
 .personalInfoBox .resumeBox:hover{
   background-color: gainsboro;
-  transition: 0.2s;
   border-width: 2px;
+  transition: 0.2s;
 }
 
 .personalInfoBox .skillBox:hover{
   background-color: gainsboro;
-  transition: 0.2s;
   border-width: 2px;
+  transition: 0.2s;
 }
 
 .personalInfoBox .contactsBox{
